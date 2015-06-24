@@ -10,6 +10,8 @@
 	<string>Trigonometry</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>B1D0485671B2FAA9BB99FB12E5FC2D755C952CF1</key>
+		<string>https://github.com/ch98-1/Slow_Escape_IOS.git</string>
 		<key>D6F563B4B5DF87CB3C16590F954E382B5BF50360</key>
 		<string>https://github.com/ch98-1/Trigonometry_IOS.git</string>
 	</dict>
@@ -17,17 +19,27 @@
 	<string>Trigonometry_IOS/Trigonometry.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>D6F563B4B5DF87CB3C16590F954E382B5BF50360</key>
+		<key>B1D0485671B2FAA9BB99FB12E5FC2D755C952CF1</key>
 		<string>../../..</string>
+		<key>D6F563B4B5DF87CB3C16590F954E382B5BF50360</key>
+		<string>../../../../Trigonometry_IOS</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ch98-1/Trigonometry_IOS.git</string>
+	<string>https://github.com/ch98-1/Slow_Escape_IOS.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>D6F563B4B5DF87CB3C16590F954E382B5BF50360</string>
+	<string>B1D0485671B2FAA9BB99FB12E5FC2D755C952CF1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B1D0485671B2FAA9BB99FB12E5FC2D755C952CF1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Slow_Escape_IOS</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
